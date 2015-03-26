@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-It sets up the .git directory where the logging will occur.
+  It sets up the .git directory where the logging will occur.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+  You don't do anything to it directly. Accumulates changes for later commits.
